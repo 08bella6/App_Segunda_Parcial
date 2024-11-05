@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504157659170",
+    "project_id": "passwordapp-7b709",
+    "storage_bucket": "passwordapp-7b709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504157659170:android:28e004f72c6704b44caa7b",
+        "android_client_info": {
+          "package_name": "com.appmobile.passapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_pkmgShQPqxmdPfuhbKUezlhdiQcGpB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
